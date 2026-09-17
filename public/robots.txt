@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin-internal/
+
+Sitemap: https://apex-football-academy.vercel.app/sitemap.xml
